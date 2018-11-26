@@ -1,8 +1,8 @@
-#Description
+# Description
 
 uViewBitmap is a small C app to convert a Bitmap image 1 bit (black and white) to `C char` definition.
 
-#Quickstart
+# Quickstart
 
 Compile `uviewbitmap.c`:
 
@@ -30,7 +30,7 @@ It is possible to get an idea of the result directly from the `Terminal`, in ASC
 $ ./uviewbitmap -a examples/arduino.bmp
 ~~~
 
-#Full code example
+# Full code example
 ~~~
 #include <MicroView.h>
 #include <avr/pgmspace.h>
@@ -142,7 +142,7 @@ void loop() {
 
 Enjoy \o/
 
-#License
+# License
 
 ~~~
 The MIT License
